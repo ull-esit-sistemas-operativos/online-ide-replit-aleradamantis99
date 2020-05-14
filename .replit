@@ -1,2 +1,2 @@
-language = ""
-run = ""
+language = "cpp"
+run = "g++ -pthread main.cpp & ./a.out"
